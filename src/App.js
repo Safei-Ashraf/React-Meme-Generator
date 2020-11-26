@@ -1,3 +1,4 @@
+// eslint-disable-next-line 
 import styles from './index.css';
 import Header from './components/Header'
 import MemeGenerator from './components/MemeGenerator';
