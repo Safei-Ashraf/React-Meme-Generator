@@ -1,10 +1,16 @@
 import styles from './index.css';
+import Header from './components/Header'
+import MemeGenerator from './components/MemeGenerator';
 
 function App() {
   return (
+    <>
+    <Header/>
     <div className="App">
-     Hello 
+     App itself
     </div>
+    <MemeGenerator/>
+    </>
   );
 }
 
