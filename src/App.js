@@ -8,7 +8,6 @@ function App() {
     <>
     <Header/>
     <div className="App">
-     App itself
     </div>
     <MemeGenerator/>
     </>
